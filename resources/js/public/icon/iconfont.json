@@ -1,0 +1,30 @@
+{
+  "id": "1954433",
+  "name": "chexing_device",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15668823",
+      "name": "个人1",
+      "font_class": "geren1",
+      "unicode": "e778",
+      "unicode_decimal": 59256
+    },
+    {
+      "icon_id": "15668843",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e77b",
+      "unicode_decimal": 59259
+    },
+    {
+      "icon_id": "13981734",
+      "name": "车行互联",
+      "font_class": "chehanghulian",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
